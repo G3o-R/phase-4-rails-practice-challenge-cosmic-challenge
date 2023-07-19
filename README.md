@@ -308,3 +308,5 @@ along with the appropriate HTTP status code:
   "errors": ["validation errors"]
 }
 ```
+
+https://github.com/G3o-R/phase-4-rails-practice-challenge-cosmic-challenge
